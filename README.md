@@ -171,13 +171,6 @@ Spearheading the development of an intelligent platform to automate and simplify
 
 ---
 
-## ⟨ GitHub Trophies ⟩
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sparkyyy45&theme=radical&no-frame=true&row=1&column=7&margin-w=15&title=ffffff&text=C8B6FF&icon=9D4EDD&background=0D1117&border=0D1117" alt="GitHub Trophies" />
-</div>
-
----
 
 ## ⟨ Contribution Activity ⟩
 
@@ -191,12 +184,11 @@ Spearheading the development of an intelligent platform to automate and simplify
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
-
 ---
 
 ## ⟨ Current Focus ⟩
