@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C096C&height=200&section=header&text=Engineering%20The%20Future&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=C8B6FF" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C096C&height=200&section=header&text=Suyash%20Yadav&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=C8B6FF" alt="Header Banner" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering;Full-Stack+SaaS+Development;AI+Code+Optimization;Entrepreneurship+%26+Innovation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Open+Source+Creator;AI%2FML+Integration;CLI+%26+Tooling+Developer" alt="Typing Animation" />
 
   <br/>
 
   <img src="https://img.shields.io/badge/SPSU-Academic_Scholar-5A189A?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-India-5A189A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
-  <img src="https://img.shields.io/badge/Portfolio-Online-5A189A?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  <img src="https://img.shields.io/badge/Email-Contact-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="https://suyashyadav.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Online-5A189A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /></a>
+  <a href="https://www.linkedin.com/in/suyashyadav23"><img src="https://img.shields.io/badge/LinkedIn-Connect-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="mailto:suyashyadav1709@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
   <a href="https://github.com/Sparkyyy45"><img src="https://img.shields.io/badge/GitHub-Follow-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
 
   <br/>
@@ -24,12 +24,12 @@
 
 ## ⟨ About Me ⟩
 
-I am a Computer Science and Engineering student at SPSU with a strong product engineering mindset and an entrepreneurial spirit. My expertise centers on architecting robust, enterprise-grade software and leveraging advanced AI tooling to optimize development lifecycles. Operating at the intersection of complex systems architecture and seamless user experience, I specialize in full-stack development with a focus on scalable, multi-tenant environments. 
+I am a Computer Science and Engineering student at Sir Padampat Singhania University (SPSU) with a relentless focus on developer experience (DX) and product engineering. I specialize in building high-impact open-source tools, intelligent CLI registries, and Next.js applications powered by advanced AI architectures. My core philosophy is bridging the gap between complex infrastructure and seamless usability, automating away friction so developers can focus purely on shipping code.
 
-* **Engineering Focus:** Distributed Systems, SaaS Architecture, AI Integration
-* **Workflow:** Agile, CI/CD, Test-Driven Development, LLM-Assisted Refactoring
+* **Engineering Focus:** Open Source Tooling, Full-Stack Architecture, AI/LLM Integrations, CLI Development
+* **Workflow:** Edge Deployments, Component-Driven UI, Modular Monoliths, CI/CD Automation
 * **Communication:** English, Hindi
-* **Open To:** Software Engineering Roles, High-Impact Open Source Contributions, Entrepreneurial Ventures
+* **Open To:** Software Engineering Internships, Open Source Maintainer Roles, Full-Stack Development
 
 ---
 
@@ -38,16 +38,16 @@ I am a Computer Science and Engineering student at SPSU with a strong product en
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,html,css&theme=dark" alt="Programming Languages" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend Technologies" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark" alt="Backend and Databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,firebase&theme=dark" alt="Backend and Databases" />
 
 ### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=dark" alt="Cloud and DevOps Tooling" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,linux&theme=dark" alt="Cloud and DevOps Tooling" />
 
 </div>
 
@@ -57,120 +57,105 @@ I am a Computer Science and Engineering student at SPSU with a strong product en
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Code Optimization** | Advanced | Utilizing custom LLM integrations and tools like Google Antigravity for automated refactoring, performance tuning, and reducing algorithmic complexity. |
-| **Prompt Engineering** | Advanced | Architecting precise, context-aware prompts for AI code builders to accelerate enterprise-level software delivery. |
-| **Generative Integration** | Intermediate | Embedding AI endpoints into SaaS ecosystems to power dynamic data processing, automated analytics, and intelligent system workflows. |
+| **Context-Aware Inference** | Advanced | Integrating modular LLM architectures (OpenRouter, DeepSeek, Qwen) to dynamically read massive codebases and provide real-time structural guidance. |
+| **RAG Pipelines** | Advanced | Designing curated knowledge bases and integrating vector-based similarity search for highly contextual document retrieval and automated responses. |
+| **Automated Generation** | Advanced | Leveraging AI to instantly generate codebase architecture diagrams (Mermaid) and automated pull request descriptions based on issue context. |
 
 ---
 
 ## ⟨ Featured Projects ⟩
 
 <details>
-<summary><b>❖ Multi-Tenant SaaS Alumni Management Platform</b></summary>
+<summary><b>❖ RepoSage - Intelligent Open Source Mentorship</b></summary>
 <br/>
 
-An enterprise-grade, multi-tenant software-as-a-service platform designed to streamline alumni network management for academic and corporate institutions.
+An AI-driven platform that completely automates the open-source contribution workflow, taking beginners from discovering an issue to cloning a ready-to-code branch in under 60 seconds.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | React, Node.js, Express, PostgreSQL, Redis, Docker |
-| **Scale** | Architected to support isolated data environments for multiple organizations concurrently. |
-| **Performance** | Sub-100ms API response times utilizing scalable backend layers. |
-| **Security** | Role-Based Access Control (RBAC), JWT authentication, Tenant-level data isolation. |
-| **Impact** | Modernizes institutional networking workflows, replacing fragmented communication tools. |
-| **Repository** | `[Private Enterprise Repository]` |
+| **Stack** | Next.js 16 (App Router), TypeScript, Tailwind CSS, OpenRouter (DeepSeek/Qwen), Redis, NextAuth |
+| **Scale** | Deep GitHub API integration processing profile data, repository insights, and OAuth flows. |
+| **Performance** | Edge-deployed architecture utilizing optimized caching for blazing-fast real-time AI responses. |
+| **Impact** | Eliminates 90% of beginner friction by automating forks, branches, and PR creation via a single "Start Contribution" button. |
+| **Repository** | <a href="https://github.com/Sparkyyy45/reposage"><code>[View on GitHub]</code></a> |
 
-**Engineering Insight:** Built from the ground up utilizing a robust architecture to handle cross-institutional data. Focus was heavily placed on ensuring strict data isolation between tenants while sharing underlying compute resources to optimize operational costs. Evaluated diverse business models while preparing pitches for real-world deployment.
+**Engineering Insight:** Architected a sophisticated workflow orchestration engine using Octokit to bypass manual Git setup. Embedded context-aware LLMs to instantly parse target repositories, dynamically generating Mermaid architecture diagrams and personalized onboarding guides for developers before they write a single line of code.
 </details>
 
 <details>
-<summary><b>❖ Rapid Prototyping Hackathon MVP</b></summary>
+<summary><b>❖ openenv - Production-Ready Starter Kit CLI</b></summary>
 <br/>
 
-A rapid-deployment, proof-of-concept application built during an intensive hackathon environment, demonstrating fast iteration and integration capabilities.
+An open standard CLI tool and registry that scaffolds CI-verified, production-ready full-stack environments instantly, bypassing days of boilerplate configuration.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Next.js, TailwindCSS, Node.js, REST APIs |
-| **Scale** | Scalable architecture scoped for rapid iteration and demo deployment. |
-| **Performance** | Optimized execution paths for real-time presentation. |
-| **Security** | Sanitized user input streams and secure environment variable management. |
-| **Impact** | Successfully executed as a viable MVP, showcasing agility under extreme time constraints. |
-| **Repository** | <a href="https://github.com/Sparkyyy45"><code>[View on GitHub]</code></a> |
+| **Stack** | Node.js, Commander.js, Docker, Bash, GitHub Actions |
+| **Architecture** | Extensible interactive CLI with built-in system diagnostics (`doctor`) and deployment generators. |
+| **Scale** | Manages a robust registry of diverse stacks including Next.js SaaS, FastAPI, Go APIs, and MERN. |
+| **Impact** | Drastically reduces project initialization time, providing pre-configured databases, authentication, and Docker Compose files. |
+| **Repository** | <a href="https://github.com/Sparkyyy45/openenv"><code>[View on GitHub]</code></a> |
 
-**Engineering Insight:**
-Engineered under strict time constraints, this project highlights the ability to swiftly transition from conceptualization to a functional prototype. Iterative debugging and tool leverage ensured a polished minimum viable product ready for presentation.
+**Engineering Insight:** Engineered a resilient Node.js CLI utilizing modular command structures. Developed an intelligent diagnostic algorithm (`openenv doctor`) to parse local environments (Docker, Ports, Node versions) and dynamically fetch/validate project blueprints from a remote registry while enforcing strict architectural specifications.
+</details>
+
+<details>
+<summary><b>❖ Campus Core - College Super-App</b></summary>
+<br/>
+
+A full-stack, multi-module college platform consolidating attendance tracking, timetable management, academic resources, and campus news.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | React.js, Node.js, Express.js, MongoDB, Firebase Auth, Tailwind CSS |
+| **Architecture** | RESTful APIs utilizing flexible MongoDB schema design and RBAC permissions. |
+| **Impact** | Unifies fragmented academic workflows into a single, scalable dashboard. |
+| **Repository** | <a href="https://github.com/Sparkyyy45/Campus-Core"><code>[View on GitHub]</code></a> |
+
+**Engineering Insight:** Focused heavily on a modular component architecture to support long-term feature expansion, ensuring the backend securely handled disparate user roles (student, faculty, admin) and real-time campus data streams.
+</details>
+
+<details>
+<summary><b>❖ Aura AI - RAG-Based Support Chatbot</b></summary>
+<br/>
+
+An AI-powered support chatbot utilizing Retrieval-Augmented Generation (RAG) to deliver contextual, evidence-based responses from a curated knowledge base.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | React.js, Node.js, Express.js, MongoDB, LLM APIs, Vector DB |
+| **Architecture** | Full-stack pipeline bridging CRUD operations with advanced vector similarity searches. |
+| **Impact** | Provides a secure, private, and accessible UI with safe messaging routing protocols. |
+| **Repository** | <a href="https://github.com/Sparkyyy45/Aura-AI"><code>[View on GitHub]</code></a> |
+
+**Engineering Insight:** Engineered an intensive backend that bridges standard database operations with external LLM inference, maintaining low latency while prioritizing strict data safety and rapid semantic retrieval.
 </details>
 
 ---
 
 ## ⟨ Experience ⟩
 
-**Full-Stack Software Engineer (Project Lead)**
-*Independent / Entrepreneurial Venture*
-`Feb 2026 - Present`
+**Creator & Lead Maintainer**
+*openenv (Open Source Tooling)*
+`2024 - Present`
 
-Spearheading the end-to-end development of a comprehensive B2B SaaS solution.
-* Architected a scalable, multi-tenant backend infrastructure ensuring absolute data privacy and isolation across disparate organizational clients.
-* Developed a reactive frontend utilizing modern frameworks to deliver a premium user experience for alumni management.
-* Integrated advanced AI code generation and optimization tools directly into the development workflow, significantly accelerating feature delivery timelines.
-* Formulated the overarching business model, market strategy, and technical pitch for prospective stakeholders.
+Architecting and engineering an open-source CLI tool to standardize full-stack project initialization.
+* Engineered a robust Node.js interactive CLI utilizing Commander.js to scaffold CI-verified, production-ready development environments directly from a remote registry.
+* Designed a strict architectural specification for template kits ensuring built-in database migrations, Dockerized local environments, and pre-configured authentication pipelines.
+* Developed advanced terminal features including `openenv doctor` for real-time local environment diagnostics and automated deployment configuration generators.
 
-`React` `Node.js` `SaaS Architecture` `PostgreSQL` `System Design`
+`Node.js` `CLI Development` `Docker` `System Architecture` `Developer Experience (DX)`
 
-**Rapid Prototyping Developer**
-*Competitive Hackathons*
-`Jan 2026 - Jan 2026`
+**Full-Stack AI Engineer**
+*RepoSage (Open Source Platform)*
+`2024 - Present`
 
-Participated in high-pressure technical competitions to conceptualize and deliver viable software products.
-* Engineered a functional prototype, translating a novel concept into a demonstrable minimum viable product.
-* Collaborated cross-functionally to integrate logic and user interfaces under tight deadlines.
+Spearheading the development of an intelligent platform to automate and simplify open-source contributions.
+* Architected a Next.js 16 Edge-deployed application that reduces open-source contribution setup friction from ~20 minutes to under 60 seconds.
+* Integrated advanced modular LLMs (DeepSeek V3, Qwen 2.5 via OpenRouter) to automatically parse repository structures, generating real-time Mermaid architecture diagrams and contextual codebase guidance.
+* Orchestrated complex GitHub API workflows via Octokit to natively automate repository forking, branch creation, and draft pull request generation.
 
-`Rapid Application Development` `API Integration` `MVP Scoping`
-
----
-
-## ⟨ Achievements ⟩
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Architectural Design** | Designed and formulated the complete technical and business pitch for a sophisticated multi-tenant SaaS platform. |
-| **Hackathon Execution** | Successfully engineered and deployed a functional MVP prototype under extreme time constraints. |
-
-</div>
-
----
-
-## ⟨ Certifications ⟩
-
-<div align="center">
-
-### AWS
-<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certification" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certification" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Computer_Science_Elite-1E88E5?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL Certification" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-CCNA_Routing_&_Switching-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification" />
-
-</div>
-
----
-
-## ⟨ Coding Profiles ⟩
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Elite_Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Institute_Ranker-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star_Coder-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</div>
+`Next.js 16` `TypeScript` `OpenRouter/LLMs` `GitHub API (Octokit)` `Redis`
 
 ---
 
@@ -189,7 +174,7 @@ Participated in high-pressure technical competitions to conceptualize and delive
 ## ⟨ GitHub Trophies ⟩
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sparkyyy45&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sparkyyy45&theme=radical&no-frame=true&row=1&column=7&margin-w=15&title=ffffff&text=C8B6FF&icon=9D4EDD&background=0D1117&border=0D1117" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -205,7 +190,11 @@ Participated in high-pressure technical competitions to conceptualize and delive
 ## ⟨ Contribution Snake ⟩
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sparkyyy45/Sparkyyy45/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -214,17 +203,17 @@ Participated in high-pressure technical competitions to conceptualize and delive
 
 ```yaml
 Current_Status:
-  Learning:
-    - Advanced Distributed Systems
-    - Generative AI Workflow Orchestration
-    - SaaS Product Scaling
   Building:
-    - Multi-Tenant Alumni Platform
-    - AI-Driven Refactoring Scripts
+    - RepoSage (Open Source Contribution Engine)
+    - openenv (Interactive CLI & Starter Registry)
+  Learning:
+    - Advanced Go/Rust implementations for CLI
+    - Edge computing optimization (Vercel/Redis)
   Exploring:
-    - Market Fit for Entrepreneurial Ventures
-    - Next-Generation Cloud Infrastructure
+    - Next-Generation LLM Orchestration
+    - GitHub Apps and Webhook Integrations
   Open_To:
-    - Enterprise Software Engineering Roles
-    - Full-Stack Development Contracts
+    - Software Engineering Internships
+    - Open Source Maintainer Roles
+    - Full-Stack Development Roles
     - Tech Entrepreneurship Collaborations
