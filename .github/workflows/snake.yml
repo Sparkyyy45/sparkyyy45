@@ -11,7 +11,7 @@ on:
 jobs:
   generate:
     permissions: 
-      contents: write # 👈 THIS IS THE MAGIC FIX
+      contents: write 
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
@@ -25,7 +25,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#9D4EDD&color_dots=#0D1117,#161B22,#3C096C,#5A189A,#7B2CBF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
